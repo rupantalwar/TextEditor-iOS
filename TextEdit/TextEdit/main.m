@@ -2,9 +2,10 @@
 //  main.m
 //  TextEdit
 //
-//  Created by Robert Irwin on 9/23/14.
-//  Copyright (c) 2014 Robert Irwin. All rights reserved.
-//
+//  Created by Rupan Talwar on 9/23/14.
+//  SUID: 402408828
+//  Copyright (c) 2014 Rupan Talwar. All rights reserved.
+
 
 #import <UIKit/UIKit.h>
 
